@@ -50,7 +50,10 @@ header {
     }
   }
   span {
-    cursor: pointer;
+    form {
+      display: flex;
+      justify-content: center;
+    }
   }
 }
 
