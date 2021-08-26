@@ -2,7 +2,7 @@
 
 # SCSS Masterclass
 
-(S)CSS Layout Masterclass: Flexbox & Grid
+(S)CSS Layout Masterclass: Flexbox & Gri
 
 ## Flexbox:
 
